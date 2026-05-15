@@ -1,0 +1,57 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+
+# logs
+logs/
+*.log
+npm-debug.log*
+
+# uploads
+uploads/
+
+# build folders
+dist/
+build/
+
+# coverage reports
+coverage/
+
+# test reports
+html-report/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# vscode settings
+.vscode/
+
+# temp files
+tmp/
+temp/
+
+# cloudinary cache
+.cache/
+
+# package lock optional
+# package-lock.json
+
+# runtime files
+*.pid
+*.seed
+*.pid.lock
+
+# jest cache
+.jest/
+
+# nyc coverage
+.nyc_output/
+
+# dotenv
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
